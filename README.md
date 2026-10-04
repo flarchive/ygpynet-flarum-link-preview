@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ygpynet/flarum-link-preview.** Not for installation: use [Packagist](https://packagist.org/packages/ygpynet/flarum-link-preview) or the [upstream repository](https://github.com/ygpynet/link-preview).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/ygpynet-flarum-link-preview/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0.0-beta`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/ygpynet-flarum-link-preview/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-08-18 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/ygpynet-flarum-link-preview/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-08-19 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/ygpynet-flarum-link-preview/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-08-19 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/ygpynet-flarum-link-preview/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/ygpynet-flarum-link-preview.json](https://github.com/flarchive/archive-index/blob/main/packages/ygpynet-flarum-link-preview.json)
 
